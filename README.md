@@ -1,4 +1,4 @@
-# Basic Linux Commands
+# Basic Linux Commands From learning seesion 3
 
 This README introduces common Linux commands used for navigating the terminal,
 working with files and directories, viewing system information, and managing
