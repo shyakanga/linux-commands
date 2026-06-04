@@ -1,4 +1,4 @@
-# Basic Linux Commands
+# Basic Linux Commands From learning seesion 3
 
 This README introduces common Linux commands used for navigating the terminal,
 working with files and directories, viewing system information, and managing
@@ -110,3 +110,4 @@ ls -la
 
 This creates a practice directory, creates a text file, writes text into it,
 prints the file contents, and lists the directory contents.
+All the commands are available 
