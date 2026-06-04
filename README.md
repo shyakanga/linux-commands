@@ -110,3 +110,4 @@ ls -la
 
 This creates a practice directory, creates a text file, writes text into it,
 prints the file contents, and lists the directory contents.
+All the commands are available 
